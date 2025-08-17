@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Dylan Weaver - Resume</title>
-  <style>
+<meta charset="UTF-8">
+<title>Dylan Weaver - Resume</title>
+<style>
     body {
       font-family: Arial, sans-serif;
       margin: 40px;

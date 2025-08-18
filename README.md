@@ -32,14 +32,18 @@ Motivated senior in Computer Science with a strong foundation in C++ and Python,
 - **Interpersonal Skills:** Customer service, friendly and positive attitude, dependable and adaptable  
 - **Professional Skills:** Problem solving, attention to detail, multitasking, critical thinking  
 
-<h2>🤳 Connect with me:</h2>
+## 🤳 Connect with me:
 
-<a href="https://www.linkedin.com/in/developerdylan/">
-  <span style="color:#0077B5">LinkedIn</span>
-</a>  
-<a href="https://github.com/developerdylan">
-  <span style="color:#24292e">GitHub</span>
-</a>  
-<a href="mailto:Dylanweaver425@gmail.com">
-  <span style="color:#D44638">Email</span>
-</a>
+- <a href="https://www.linkedin.com/in/developerdylan/">
+    <span style="color:#0077B5">💼 LinkedIn</span>
+  </a>  
+
+- <a href="https://github.com/developerdylan">
+    <span style="color:#24292e">💻 GitHub</span>
+  </a>  
+
+- <a href="mailto:Dylanweaver425@gmail.com">
+    <span style="color:#D44638">📧 Email</span>
+  </a>  
+
+- 📱 <span style="color:#2c3e50">862-285-1141</span>

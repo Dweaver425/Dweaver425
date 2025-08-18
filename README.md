@@ -38,7 +38,7 @@ Motivated senior in Computer Science with a strong foundation in C++ and Python,
     <span style="color:#0077B5">💼 LinkedIn</span>
   </a>  
 
-- <a href="https://github.com/developerdylan">
+- <a href="https://github.com/Dweaver425">
     <span style="color:#24292e">💻 GitHub</span>
   </a>  
 

@@ -1,7 +1,7 @@
 <h1>Hi, I'm Dylan! <br/>
-<a href="https://github.com/developerdylan">Programmer</a>, 
-<a href="https://www.linkedin.com/in/developerdylan/">Computer Science Student</a>, 
-<a href="mailto:Dylanweaver425@gmail.com">Tech Enthusiast</a></h1>
+<a> Programmer</a>, 
+<a>Computer Science Student</a>, 
+<a>Tech Enthusiast</a></h1>
 
 <h2>🎓 Education</h2>
 

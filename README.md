@@ -1,49 +1,83 @@
-<h1>Hi, I'm Dylan! <br/>
-<a> Programmer</a>, 
-<a>Computer Science Student</a>, 
-<a>Tech Enthusiast</a></h1>
+<h1>
+  Hi, I'm Dylan! <br/>
+  <a>Programmer</a>, 
+  <a>Computer Science Student</a>, 
+  <a>Tech Enthusiast</a>
+</h1>
 
 <h2>🎓 Education</h2>
 
-- **William Paterson University, Wayne, NJ** — Graduation May 2026  
-  - Bachelor of Science, Computer Science  
-  - Minor in Mathematics  
-  - Cumulative GPA: 3.49  
-  - Dean’s List  
+<ul>
+  <li>
+    <strong>William Paterson University</strong>, Wayne, NJ — <em>Graduation May 2026</em>
+    <ul>
+      <li>Bachelor of Science in Computer Science</li>
+      <li>Minor in Mathematics</li>
+      <li>Cumulative GPA: 3.49</li>
+      <li>Dean’s List</li>
+    </ul>
+  </li>
+</ul>
 
 <h2>🎯 Career Objective</h2>
 
-Motivated senior in Computer Science with a strong foundation in C++ and Python, seeking a software development internship. Passionate about advancing automotive technology and eager to contribute to innovative projects through strong problem solving and technical skills. Interested in a career in the automotive industry further developing and modernizing technology in cars.  
+<p>
+Motivated senior Computer Science student with a strong foundation in C++ and Python, seeking a software development internship. Passionate about advancing automotive technology and contributing to innovative projects through strong problem-solving and technical skills. Interested in a career focused on developing and modernizing technology in the automotive industry.
+</p>
 
 <h2>💼 Experience</h2>
 
-- **Shadow Hobbies, Woodland Park, NJ — Employee**  
-  *December 2022 – Present*  
-  - Managed cash register and handled sales transactions to ensure smooth customer experience.  
-  - Assisted customers in selecting and repairing R/C vehicles by explaining model features and locating parts.  
-  - Inspected and diagnosed vehicle issues, referenced manuals, and performed technical repairs.  
-  - Maintained online inventory and organized incoming parts, processing hundreds weekly.  
-  - Excelled by mastering new technologies, leading projects to completion, and contributing through exceptional customer service and critical thinking skills.  
+<ul>
+  <li>
+    <strong>Mathematics Tutor</strong> — <em>William Paterson University, Wayne, NJ</em><br>
+    <em>September 2025 – Present</em>
+    <ul>
+      <li>Provided one-on-one and small-group tutoring for university students in Algebra through Calculus II.</li>
+      <li>Developed tailored explanations to simplify complex mathematical concepts for diverse learning styles.</li>
+      <li>Assisted students with exam preparation and problem-solving strategies, resulting in improved confidence and academic performance.</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Technical Sales & Service Technician</strong> — <em>Shadow Hobbies, Woodland Park, NJ</em><br>
+    <em>December 2022 – September 2025</em>
+    <ul>
+      <li>Delivered technical support and repair services for high-performance R/C vehicles.</li>
+      <li>Diagnosed mechanical issues, performed precise repairs, and explained model features to support informed purchasing decisions.</li>
+      <li>Managed and organized a large online inventory, ensuring accurate parts tracking and efficient fulfillment.</li>
+      <li>Contributed to improved customer satisfaction and repeat business through reliable service and technical expertise.</li>
+    </ul>
+  </li>
+</ul>
 
 <h2>🛠 Skills</h2>
 
-- **Technical Skills:** C++, Python, Google Workspaces, Shopify, LightSpeed, Instagram  
-- **Automotive Expertise:** Mechanical problem solving, basic knowledge of CAD  
-- **Interpersonal Skills:** Customer service, friendly and positive attitude, dependable and adaptable  
-- **Professional Skills:** Problem solving, attention to detail, multitasking, critical thinking  
+<ul>
+  <li><strong>Technical:</strong> C++, Python, Google Workspace, Shopify, LightSpeed</li>
+  <li><strong>Automotive & Mechanical:</strong> Mechanical problem solving, basic CAD knowledge</li>
+  <li><strong>Interpersonal:</strong> Customer service, communication, adaptability, teamwork</li>
+  <li><strong>Professional:</strong> Problem solving, attention to detail, multitasking, critical thinking</li>
+</ul>
 
-## 🤳 Connect with me:
+<h2>🤳 Connect with me</h2>
 
-- <a href="https://www.linkedin.com/in/developerdylan/">
-    <span style="color:#0077B5">💼 LinkedIn</span>
-  </a>  
-
-- <a href="https://github.com/Dweaver425">
-    <span style="color:#24292e">💻 GitHub</span>
-  </a>  
-
-- <a href="mailto:Dylanweaver425@gmail.com">
-    <span style="color:#D44638">📧 Email</span>
-  </a>  
-
-- 📱 <span style="color:#2c3e50">862-285-1141</span>
+<ul>
+  <li>
+    <a href="https://www.linkedin.com/in/developerdylan/">
+      <span style="color:#0077B5">💼 LinkedIn</span>
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/Dweaver425">
+      <span style="color:#24292e">💻 GitHub</span>
+    </a>
+  </li>
+  <li>
+    <a href="mailto:Dylanweaver425@gmail.com">
+      <span style="color:#D44638">📧 Email</span>
+    </a>
+  </li>
+  <li>
+    📱 <span style="color:#2c3e50">862-285-1141</span>
+  </li>
+</ul>

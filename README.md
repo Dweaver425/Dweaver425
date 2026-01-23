@@ -13,7 +13,7 @@
     <ul>
       <li>Bachelor of Science in Computer Science</li>
       <li>Minor in Mathematics</li>
-      <li>Cumulative GPA: 3.49</li>
+      <li>Cumulative GPA: 3.51</li>
       <li>Dean’s List</li>
     </ul>
   </li>

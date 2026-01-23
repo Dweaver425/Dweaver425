@@ -68,7 +68,7 @@ Motivated senior Computer Science student with a strong foundation in C++ and Py
     </a>
   </li>
   <li>
-    <a href="https://github.com/Dweaver425">
+    <a href="https://github.com/Dweaver425/Portfolio">
       <span style="color:#24292e">💻 GitHub</span>
     </a>
   </li>

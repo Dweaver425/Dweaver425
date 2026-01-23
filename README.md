@@ -13,7 +13,7 @@
     <ul>
       <li>Bachelor of Science in Computer Science</li>
       <li>Minor in Mathematics</li>
-      <li>Cumulative GPA: 3.49</li>
+      <li>Cumulative GPA: 3.51</li>
       <li>Dean’s List</li>
     </ul>
   </li>
@@ -68,7 +68,7 @@ Motivated senior Computer Science student with a strong foundation in C++ and Py
     </a>
   </li>
   <li>
-    <a href="https://github.com/Dweaver425">
+    <a href="https://github.com/Dweaver425/Portfolio">
       <span style="color:#24292e">💻 GitHub</span>
     </a>
   </li>
